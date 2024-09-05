@@ -1,0 +1,2 @@
+EGZAMIN Stwórz rozwiązanie, które powie nam, jaki zestaw pokerowy posiadamy. Rozwiązanie polega na rozdaniu nam 5 kart z standardowej talii 52 kart w sposób losowy. Na podstawie kart w naszej ręce program powinien powiedzieć nam, jaki jest najlepszy układ pokerowy. 
+Odwołanie: https://pl.wikipedia.org/wiki/Poker#Starsze%C5%84stwo_uk%C5%82ad%C3%B3w_kart

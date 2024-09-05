@@ -1,0 +1,1 @@
+Zagadka skali EGZAMINACYJNEJ. Z 8 piłkami, np. [1,2,1,1,1,1,1,1], znajdź pozycję "ciężkiej" piłki. Indeksy są wybierane losowo. Użyj porównania wag tylko dwa razy.

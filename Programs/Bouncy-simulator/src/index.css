@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-image: url("./components/sky.jpg");
+}
+
+.borderTile {
+  fill: rgb(0, 0, 0);
+  stroke: rgb(0, 0, 0);
+}
+
+.movementTile {
+  fill: rgb(255, 255, 255);
+  position: absolute;
+  display: none;
+}
+
+#ball {
+  z-index: 10;
+}
+
+.tileBoard {
+  height: 100%;
+  width: 100%;
+}
+
+.tileRow {
+  display: flex;
+}
